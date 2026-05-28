@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">Привет, я dymyx! ✨</h1>
-<h3 align="center">Текущее направление Frontend-разработчик</h3>
 
 ---
 
