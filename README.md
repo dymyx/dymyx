@@ -12,11 +12,3 @@
 </p>
 
 ---
-
-### 📊 Моя статистика на GitHub:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dymyx&show_icons=true&locale=en&layout=compact&theme=react" alt="dymyx" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dymyx&theme=react" alt="dymyx" />  
-</p>
